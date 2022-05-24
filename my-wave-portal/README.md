@@ -6,5 +6,5 @@ Try running some of the following tasks:
 
 ```shell
 Link to my 1st Dapp!!
-    https://waveportal-starter-project.yaksheshgupta1.repl.co
+https://waveportal-starter-project.yaksheshgupta1.repl.com
 ```
